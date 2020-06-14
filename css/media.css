@@ -1,0 +1,183 @@
+@media only screen and (max-width: 700px) {
+    #innerDivId img {
+        height: 365px;
+        width: 100%;
+    }
+    #captionId1 h1 {
+        left: -50px;
+        top: -300px;
+        font-size: 25px;
+    }
+    #captionId2 h1 {
+        left: -50px;
+        top: -300px;
+        font-size: 25px;
+    }
+    #hiPDivId1 {
+        border: none;
+        left: -60px;
+        top: -250px;
+    }
+    #hiPDivId2 {
+        border: none;
+        left: -60px;
+        top: -250px;
+    }
+    #txtInputId1 {
+        width: 100px;
+        height: 34px;
+    }
+    #slideImgDiv {
+        position: relative;
+    }
+    #btnId3 {
+        height: 34px;
+        font-size: 10px;
+        width: 85px;
+        outline: none;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+        background: url(../img/position.png) no-repeat 5px 4px;
+        background-color: gray;
+    }
+    #btnId4 {
+        width: 85px;
+        outline: none;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+        background: url(../img/search.png) no-repeat 30px 3px;
+        background-color: orangered;
+    }
+    #txtInputId1 {
+        width: 42%;
+        font-size: 10px;
+    }
+    #generic1 {
+        display: none;
+    }
+    #slideHid {
+        display: block;
+    }
+    #slideHid {
+        height: 195px;
+        width: 100%;
+    }
+    #slideHid div {
+        float: left;
+        padding-top: 20px;
+    }
+    #firstD {
+        height: 195px;
+        width: 30%;
+    }
+    #secondD {
+        height: 195px;
+        width: 50%;
+    }
+    #thirdD {
+        height: 195px;
+    }
+    #inner {
+        height: 175px;
+        width: 170px;
+    }
+    #inner h4 {
+        color: #1c5080;
+        padding-bottom: 10px;
+    }
+    #thirdD input {
+        border: 1px solid gray;
+        background: white;
+        margin-top: 45px;
+        height: 60px;
+        width: 100px;
+        border-radius: 20px;
+        font-size: 20px;
+        color: #666666;
+    }
+    /* 热门路线 */
+    #spanDivId2 {
+        font-size: 20px;
+        padding-right: 10px;
+    }
+    #phoId {
+        display: none;
+    }
+    #hiddenPho img {
+        width: 100%;
+        height: 405px;
+        margin-top: 10px;
+    }
+    #shadowx {
+        background: black;
+        width: 100%;
+        height: 50px;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        opacity: 0.8;
+    }
+    #shadowy {
+        background: black;
+        width: 100%;
+        height: 50px;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        opacity: 0.8;
+    }
+    #content1 {
+        position: relative;
+        width: 100%;
+    }
+    #content2 {
+        position: relative;
+        width: 100%;
+    }
+    #shadowx h6 {
+        font-size: 10px;
+        float: left;
+        margin: 0;
+        margin-left: 20px;
+        margin-top: 20px;
+        color: white;
+    }
+    #shadowx h5 {
+        float: left;
+        margin: 0;
+        margin-left: 20px;
+        margin-top: 18px;
+        color: white;
+    }
+    #shadowy h6 {
+        font-size: 10px;
+        float: left;
+        margin: 0;
+        margin-left: 20px;
+        margin-top: 20px;
+        color: white;
+    }
+    #shadowy h5 {
+        float: left;
+        margin: 0;
+        margin-left: 20px;
+        margin-top: 18px;
+        color: white;
+    }
+    #btn2 {
+        display: block;
+        margin-left: -400px;
+    }
+    #tiDivId {
+        display: none;
+    }
+    #innerImgId {
+        height: 320px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    #imgIconDivId2 {
+        margin: 20px 15% 0 10%;
+        float: left;
+    }
+}
